@@ -34,7 +34,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "gunzip_flate2"
+name = "gzip_flate2"
 version = "0.1.0"
 dependencies = [
  "flate2",
