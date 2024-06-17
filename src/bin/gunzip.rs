@@ -1,4 +1,4 @@
-use std::io::{Result, stdin, stdout};
+use std::io::{stdin, stdout, Result};
 
 use flate2::bufread::GzDecoder;
 
